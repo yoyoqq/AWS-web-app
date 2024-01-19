@@ -1,0 +1,11 @@
+5 different AWS tools will be used to build a static web app that renders "hello world"
+
+1. AWS Amplify: deploy static resources of the web
+2. Amazon API Gateway: RESTful API to exchagne info (get, post, put, delete)
+3. AWS Lambda: create serverless functions 
+4. AWS Identity and Access Management: permissions 
+5. Amazon DynamoDB: key-value db 
+
+
+resources: 
+https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/?ref=gsrchandson
